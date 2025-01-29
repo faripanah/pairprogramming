@@ -1,0 +1,15 @@
+.creditCardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Space between cards */
+ 
+}
+
+.boxColorContainer {
+  display: block; /* Default behavior for stacking vertically */
+  margin:0 20px;
+  text-align: center; 
+}
+
+
